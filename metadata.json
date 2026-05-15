@@ -1,0 +1,9 @@
+{
+  "name": "Virasat-Namma Guide",
+  "description": "A smart heritage guide for discovering the hidden gems, historical temples, and inscriptions of Karnataka with multi-language support and QR scanning.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
